@@ -13,18 +13,18 @@ function App() {
         <div className='image-container'>
           <img src={nft} alt="nft-image" id='nft-image'/>
           <div className='view-container'>
-            <img src={viewIcon} alt="nft-image" id='view-image'/>
+            <img src={viewIcon} alt="view-icon" id='view-image'/>
           </div>
         </div>
         <h1>Equilibrium #3429</h1>
         <p className='paragraph'>Our Equilibrium collection promotes balance and calm.</p>
         <div className='info'>
           <div className='price-info info-container'>
-            <img src={ethereumIcon}/>
+            <img src={ethereumIcon} alt="ethereum-icon"/>
             <p>0.041 ETH</p>
           </div>
           <div className='time-info info-container'>
-            <img src={clockIcon}/>
+            <img src={clockIcon} alt="clock-icon"/>
             <p>3 days left</p>
           </div>
         </div>
