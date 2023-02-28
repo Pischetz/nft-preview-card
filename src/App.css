@@ -89,13 +89,13 @@
   margin: 0;
 }
 
-h3:hover{
+h1:hover{
   color: hsl(178, 100%, 50%);
   cursor: pointer;
 }
 
 
-h3{
+h1{
   font-size: 18px;
   font-weight: 600;
   color: hsl(0, 0%, 100%);

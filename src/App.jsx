@@ -16,7 +16,7 @@ function App() {
             <img src={viewIcon} alt="nft-image" id='view-image'/>
           </div>
         </div>
-        <h3>Equilibrium #3429</h3>
+        <h1>Equilibrium #3429</h1>
         <p className='paragraph'>Our Equilibrium collection promotes balance and calm.</p>
         <div className='info'>
           <div className='price-info info-container'>
